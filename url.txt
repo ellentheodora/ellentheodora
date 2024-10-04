@@ -1,1 +1,1 @@
-http://localhost:8502/
+https://ellentheodora-8zaqu5vr3bsqquaoymnofr.streamlit.app
