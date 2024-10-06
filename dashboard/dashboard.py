@@ -13,7 +13,7 @@ st.title("Bike Sharing Dashboard")
 # Create a sidebar 
 with st.sidebar:
     # Menambahkan gambar sepeda 
-    st.image("Sepeda.png")
+    st.image("./dashboard/Sepeda.png")
 
 #Converts 'dteday' to datetime type
 day_df['dteday'] = pd.to_datetime(day_df['dteday']) 
