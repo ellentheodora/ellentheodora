@@ -5,7 +5,7 @@ import seaborn as sns
 
 # Load the data
 day_df = pd.read_csv('./dashboard/day.csv')
-hour_df = pd.read_csv('./dashboard/'hour.csv')
+hour_df = pd.read_csv('./dashboard/hour.csv')
 
 # Create a dashboard title
 st.title("Bike Sharing Dashboard")
